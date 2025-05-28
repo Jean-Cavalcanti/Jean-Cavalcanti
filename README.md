@@ -1,4 +1,5 @@
 ## Opa! Eu Sou o Jean
+👾Programador iniciante👾
 <!--
 [![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Cavalcanti&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/Jean-Cavalcanti/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=compact&theme=tokyonight)
