@@ -9,7 +9,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Cavalcanti&layout=compact&theme=tokyonight"
 </div>
 
-##
+
 
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -27,7 +27,7 @@
   <a href = "mailto:jean.a.cavalcanti05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jean-Cavalcanti/Jean-Cavalcanti/output/github-contribution-grid-snake-dark.svg">
