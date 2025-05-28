@@ -1,5 +1,5 @@
 ## Opa! Eu Sou o Jean
-👾Programador iniciante👾
+👾Programador Front-End iniciante👾
 <!--
 [![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Cavalcanti&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/Jean-Cavalcanti/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=compact&theme=tokyonight)
@@ -17,6 +17,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   
 </div>
